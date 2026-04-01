@@ -98,39 +98,39 @@ Enter color: Red
 ---
 
 ## Example Output
-Adilabad : Red
-KomaramBheem : Green
-Nirmal : Green
-Mancherial : Red
-Nizamabad : Red
-Kamareddy : Red
-Karimnagar : Red
-Peddapalli : Green
-Jagtial : Red
-RajannaSircilla : Red
-WarangalUrban : Red
-WarangalRural : Green
-Jangaon : Red
-Mahabubabad : Red
-BhadradriKothagudem : Red
-Khammam : Red
-Suryapet : Green
-Nalgonda : Red
-YadadriBhuvanagiri : Green
-MedchalMalkajgiri : Red
-Hyderabad : Red
-Rangareddy : Green
-Vikarabad : Red
-Sangareddy : Red
-Medak : Red
-Siddipet : Green
-JayashankarBhupalpally : Red
-Mulugu : Red
-Nagarkurnool : Red
-Wanaparthy : Green
-JogulambaGadwal : Red
-Narayanpet : Green
-Mahabubnagar : Red
+- Adilabad : Red
+- KomaramBheem : Green
+- Nirmal : Green
+- Mancherial : Red
+- Nizamabad : Red
+- Kamareddy : Red
+- Karimnagar : Red
+- Peddapalli : Green
+- Jagtial : Red
+- RajannaSircilla : Red
+- WarangalUrban : Red
+- WarangalRural : Green
+- Jangaon : Red
+- Mahabubabad : Red
+- BhadradriKothagudem : Red
+- Khammam : Red
+- Suryapet : Green
+- Nalgonda : Red
+- YadadriBhuvanagiri : Green
+- MedchalMalkajgiri : Red
+- Hyderabad : Red
+- Rangareddy : Green
+- Vikarabad : Red
+- Sangareddy : Red
+- Medak : Red
+- Siddipet : Green
+- JayashankarBhupalpally : Red
+- Mulugu : Red
+- Nagarkurnool : Red
+- Wanaparthy : Green
+- JogulambaGadwal : Red
+- Narayanpet : Green
+- Mahabubnagar : Red
 ---
 
 ## Key Concepts

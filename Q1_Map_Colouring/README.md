@@ -20,12 +20,73 @@ Objective:
 ---
 
 ## States
-```
-. WA 
-. NT
-. Q
-. SA
-. NSW
-. V
-. T
-```
+- WA 
+- NT
+- Q
+- SA
+- NSW
+- V
+- T
+
+  
+---
+
+## Colors
+
+- Red
+- Green
+- Blue
+
+---
+
+## Constraints
+
+- Neighboring states must not have the same color.
+- Each state must be assigned exactly one color.
+
+---
+
+## Approach
+
+This solution uses:
+
+### 1. Backtracking Algorithm
+- Assign colors recursively
+- If a conflict occurs, undo the assignment (backtrack)
+- Try the next possible color
+
+### 2. Validity Check
+- Before assigning a color, check if any neighbor already has the same color
+
+---
+
+
+---
+
+## Example Input
+Enter state: WA
+Enter color: Red
+
+---
+
+## Example Output
+WA : Red
+NT : Green
+Q : Red
+SA : Blue
+NSW : Green
+V : Red
+T : Red
+
+---
+
+## Key Concepts
+
+- Constraint Satisfaction Problems (CSP)
+- Backtracking Search
+- Recursive Algorithms
+- Graph Coloring
+
+---
+
+Name: Bhuma Akash
